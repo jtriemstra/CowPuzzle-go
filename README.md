@@ -1,0 +1,1 @@
+This is a port of https://github.com/jtriemstra/CowPuzzle/tree/master/CowPuzzleFSharp that I'm using to play around with Go and learn the syntax.
